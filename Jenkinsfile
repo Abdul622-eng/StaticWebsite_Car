@@ -29,7 +29,7 @@ pipeline {
     }
  
     environment {
-        GIT_URL = 'https://github.com/Kphanendra/StaticWebsite_Car.git'
+        GIT_URL = 'https://github.com/Abdul622-eng/StaticWebsite_Car.git'
         IMAGE_NAME = 'myapp-image'
     }
  
